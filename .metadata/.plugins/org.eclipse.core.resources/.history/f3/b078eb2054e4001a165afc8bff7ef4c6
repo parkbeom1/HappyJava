@@ -1,0 +1,7 @@
+package lotto;
+
+public class Ex03_Array_Lotto_main {
+	public static void main(String[] args) {
+		
+	}
+}
