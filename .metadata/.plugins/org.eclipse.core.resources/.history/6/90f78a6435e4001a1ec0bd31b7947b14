@@ -1,0 +1,21 @@
+package Exam;
+
+public class FlowExam {
+
+	public static void main(String[] args) {
+		int UNIT = 10000; // 화폐단위 10000 , 5000 , 1000 , 500
+						  // 100 , 50 , 10 , 5 , 1
+		int NUM = 0; // 화폐 매수
+		int SW = 0; // 스위칭변수
+		
+		int MONEY = 12345; // 입력 받은 금액
+		
+		while(true) {
+			NUM =  MONEY/UNIT;
+			
+		}
+		
+		
+	}
+
+}

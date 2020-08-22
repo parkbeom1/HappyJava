@@ -1,0 +1,14 @@
+
+public class Test_0002_MainBody {
+
+	public static void main(String[] args) {
+		public static int power;
+		public static String powerOnOff(int power) {
+			String powerStatus="";
+			switch(power) {
+			
+			}
+		}
+	}
+
+}

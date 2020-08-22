@@ -1,0 +1,13 @@
+package StringClass;
+/*
+	String 클래스 (문자열)
+	String 수 많은 함수 ... 문자열을 조작 ( 자르고 , 합치고 )
+	subString , replace , split 등이 있다.
+	String >> static 함수 + 일반 함수(new 해서 쓸수 있는 )
+	subString - 부분적으로 뽑아온다.
+*/
+public class Ex05_String_Class {
+	public static void main(String[] args) {
+		
+	}
+}

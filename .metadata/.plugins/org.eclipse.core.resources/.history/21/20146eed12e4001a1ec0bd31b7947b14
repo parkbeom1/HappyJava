@@ -1,0 +1,11 @@
+package ETC;
+
+public class Ex01_Exception {
+	public static void main(String[] args) {
+		System.out.println("0으로 나눔니다.");
+		
+		System.out.println(0/0);
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package ETC;
+
+// 데이터를 담을수 있는 클래스  = 목적상 DTO , VO , DOMAIN 이라고 한다.
+// 데이터를 담아서 이동할수 있는 객체 = DTO
+
+
+
+
+public class Emp {
+	
+}

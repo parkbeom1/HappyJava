@@ -1,0 +1,19 @@
+package airplane;
+
+public class Airplane {
+	
+	public static String planeName = "Korea Airline"; // 비행기 이름
+	public int planoNo; // 비행기 번호 
+	
+	public static void show(Airplane airplane) {
+		
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+	}
+}

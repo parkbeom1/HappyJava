@@ -1,0 +1,12 @@
+package Exam;
+
+public class FlowExam {
+
+	public static void main(String[] args) {
+		int UNIT = 10000; // »≠∆Û¥‹¿ß 10000 , 5000 , 1000 , 500
+						  // 100 , 50 , 10 , 5 , 1
+		
+		
+	}
+
+}

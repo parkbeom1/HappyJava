@@ -1,0 +1,18 @@
+package ETC;
+
+public class Ex03_finally {
+	
+	static void startInstall() {
+		System.out.println("INSTALL");
+	}
+	static void copyFiles() {
+		System.out.println("COPY FILES");
+	}
+	static void fileDelete() {
+		System.out.println("File DELETE");
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

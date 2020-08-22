@@ -1,0 +1,32 @@
+package Exam;
+
+public class FlowExam {
+
+	public static void main(String[] args) {
+		int UNIT = 10000; // 화폐단위 10000 , 5000 , 1000 , 500
+						  // 100 , 50 , 10 , 5 , 1
+		int NUM = 0; // 화폐 매수
+		int SW = 0; // 스위칭변수
+		
+		int MONEY = 12345; // 입력 받은 금액
+		
+		while(true) {
+			NUM =  MONEY/UNIT; // 몫 ; 화폐매수 : 입력 받은 금액을 화폐 단위로 돌려준다.
+			System.out.println("UNIT:" + UNIT + "/num" + NUM); // 출력
+			
+			if(UNIT <= 1) { // UNIT가 1보다 작거나 같으면
+				break;  
+			} // if 종료
+		
+			MONEY = MONEY - UNIT * NUM; // 나누어나온 나머지 , 다음 금액의 초기값
+			
+			if(SW == 0) { // 같은지 == 로 비교 
+				
+			}
+			
+		}
+		
+		
+	}
+
+}

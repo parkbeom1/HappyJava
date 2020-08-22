@@ -1,0 +1,12 @@
+package ETC;
+
+public class Ex03_finally {
+	
+	static void startInstall() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

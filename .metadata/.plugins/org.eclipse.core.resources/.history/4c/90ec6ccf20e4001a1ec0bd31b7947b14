@@ -1,0 +1,10 @@
+package StringClass;
+/*
+ 	this : 객체 자신을 가리키는 this(thie.empno,this.ename)
+	
+*/
+public class Ex06_Inherit {
+	public static void main(String[] args) {
+		
+	}
+}

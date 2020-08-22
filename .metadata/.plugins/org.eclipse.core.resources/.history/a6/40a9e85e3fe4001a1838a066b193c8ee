@@ -1,0 +1,23 @@
+package airplane;
+
+public class Airplane {
+	
+	public static String planeName = "Korea Airline"; // 비행기 이름
+	public int planoNo; // 비행기 번호 
+	
+	public void show(Airplane airplane) {
+		
+		System.out.printf("planeName : %s , planeNo : %d \n" , 
+				airplane.planeName , airplane.planoNo);
+	}
+	public static int count; // 공유됨 
+	
+	public void  Ariplane() {
+		
+		count++; // 공유됨  객체 생성시 증가함 
+	}
+
+	public static void main(String[] args) {
+		
+	}
+}
